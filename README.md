@@ -31,3 +31,9 @@ Run `notebooks/label images.ipynb` to label the images. Saving the classificatio
 ### Train Model
 
 The model training follows the approach described in https://towardsdatascience.com/image-classification-using-fastai-v2-on-colab-33f3ebe9b5a3. For training using a GPU (if none is available locally), [Google Colab](https://colab.research.google.com/) can be used.
+
+### Classify Images
+
+Load model to classify images. Follow example in `notebooks/classify images.ipynb`.
+
+<img width="719" alt="Screenshot 2021-03-22 at 17 42 53" src="https://user-images.githubusercontent.com/1564625/112030099-32b4b600-8b3a-11eb-8921-29d37457d7ce.png">
