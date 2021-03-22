@@ -27,3 +27,7 @@ jupyter notebook .
 ```
 
 Run `notebooks/label images.ipynb` to label the images. Saving the classifications will overwrite `data/imageAnnotations.csv`.
+
+### Train Model
+
+The model training follows the approach described in https://towardsdatascience.com/image-classification-using-fastai-v2-on-colab-33f3ebe9b5a3. For training using a GPU (if none is available locally), [Google Colab](https://colab.research.google.com/) can be used.
